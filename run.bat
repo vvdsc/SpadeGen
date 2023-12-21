@@ -1,0 +1,2 @@
+python spade.py
+pause
